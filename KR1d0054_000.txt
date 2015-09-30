@@ -1,0 +1,7 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 纂圖互註禮記
+#+DATE: 2015-09-23 09:38:07
+#+PROPERTY: JUAN 0
+<pb:KR1d0054_SBCK_000-1a>¶
+<pb:KR1d0054_SBCK_000-2a>¶
+
