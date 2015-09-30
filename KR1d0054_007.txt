@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 纂圖互註禮記
-#+DATE: 2015-09-23 09:38:07
+#+DATE: 2015-09-10 22:50:15.032956
+#+PROPERTY: ID KR1d0054
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 7
+#+PROPERTY: FILE SB01n0026-007纂圖互註禮記-卷第七.
 <pb:KR1d0054_SBCK_007-1a>¶
 纂圖互註禮記卷之七¶
 禮運第九(○陸曰鄭云禮運者以其記五帝/三王相変易及隂陽轉旋之道)¶
@@ -473,4 +477,3 @@
 ¶
 纂圖互註禮記卷之七¶
 <pb:KR1d0054_SBCK_007-21b>¶
-

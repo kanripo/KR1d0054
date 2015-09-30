@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 纂圖互註禮記
-#+DATE: 2015-09-23 09:38:07
+#+DATE: 2015-09-10 22:50:14.988203
+#+PROPERTY: ID KR1d0054
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 6
+#+PROPERTY: FILE SB01n0026-006纂圖互註禮記-卷第六.
 <pb:KR1d0054_SBCK_006-1a>¶
 纂圖互註禮記卷之六¶
 曽子問第七(○陸曰曽子孔子弟子曽參也以其/所問多明於禮故著姓名以顕之)¶
@@ -511,4 +515,3 @@
 <pb:KR1d0054_SBCK_006-20b>¶
 ¶
 纂圗互註禮記卷之六¶
-

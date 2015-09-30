@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 纂圖互註禮記
-#+DATE: 2015-09-23 09:38:07
+#+DATE: 2015-09-10 22:50:15.548010
+#+PROPERTY: ID KR1d0054
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 18
+#+PROPERTY: FILE SB01n0026-018纂圖互註禮記-卷第十八.
 <pb:KR1d0054_SBCK_018-1a>¶
 纂圖互註禮記卷第十八¶
 奔喪第三十四(陸曰鄭云奔喪者居於他&KR0022;聞/䘮奔歸之礼實曲礼之正篇也)¶
@@ -336,4 +340,3 @@
 (也〇重言廣各寸/半玉藻縁廣寸半)¶
 纂圖互註禮記卷第十八¶
 <pb:KR1d0054_SBCK_018-15a>¶
-

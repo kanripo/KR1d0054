@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 纂圖互註禮記
-#+DATE: 2015-09-23 09:38:07
+#+DATE: 2015-09-10 22:50:15.273016
+#+PROPERTY: ID KR1d0054
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 12
+#+PROPERTY: FILE SB01n0026-012纂圖互註禮記-卷第十二.
 <pb:KR1d0054_SBCK_012-1a>¶
 纂圗互註禮記卷之十二¶
 雜記上第二十(○陸曰鄭云&KR0258;記者以其/雜記諸侯及士之䘮事)¶
@@ -489,4 +493,3 @@
 (純之閠反又支允反注同徐方移反紃音廵徐/辝均反縫扶用反下同絛本又作條同吐刀反)¶
 纂圗互註禮記卷之十二¶
 <pb:KR1d0054_SBCK_012-20a>¶
-

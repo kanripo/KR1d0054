@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 纂圖互註禮記
-#+DATE: 2015-09-23 09:38:07
+#+DATE: 2015-09-10 22:50:15.228319
+#+PROPERTY: ID KR1d0054
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 11
+#+PROPERTY: FILE SB01n0026-011纂圖互註禮記-卷第十一.
 <pb:KR1d0054_SBCK_011-1a>¶
 (肴户/交反)是故學然後知不足教然後知困(斈則暏巳行之所/矩教則見巳道之)¶
 (所未逹○暏丁古反行/下孟反下注德行同)知不足然後能自反也知困然後¶
@@ -532,4 +536,3 @@
 樂(上下同/美之也)¶
 纂圗互註禮記卷之十一¶
 <pb:KR1d0054_SBCK_011-21b>¶
-

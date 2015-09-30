@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 纂圖互註禮記
-#+DATE: 2015-09-23 09:38:07
+#+DATE: 2015-09-10 22:50:14.798905
+#+PROPERTY: ID KR1d0054
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 2
+#+PROPERTY: FILE SB01n0026-002纂圖互註禮記-卷第二.
 <pb:KR1d0054_SBCK_002-1a>¶
 纂圖互註禮記卷之二¶
 檀弓上第三(陸曰檀弓魯人〇檀大丹反姓/也弓名以其善於禮故以名篇)¶
@@ -512,4 +516,3 @@
 <pb:KR1d0054_SBCK_002-20b>¶
 ¶
 纂圗互註禮記卷之二¶
-

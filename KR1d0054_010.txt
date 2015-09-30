@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 纂圖互註禮記
-#+DATE: 2015-09-23 09:38:07
+#+DATE: 2015-09-10 22:50:15.179665
+#+PROPERTY: ID KR1d0054
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 10
+#+PROPERTY: FILE SB01n0026-010纂圖互註禮記-卷第十.
 <pb:KR1d0054_SBCK_010-1a>¶
 纂圖互註禮記卷之十¶
 䘮服小記第十五(○陸曰鄭云以其/記䘮服之小義)¶
@@ -453,4 +457,3 @@
 <pb:KR1d0054_SBCK_010-18b>¶
 ¶
 　　纂圗互註禮記卷之十¶
-

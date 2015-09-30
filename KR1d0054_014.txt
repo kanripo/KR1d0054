@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 纂圖互註禮記
-#+DATE: 2015-09-23 09:38:07
+#+DATE: 2015-09-10 22:50:15.367029
+#+PROPERTY: ID KR1d0054
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 14
+#+PROPERTY: FILE SB01n0026-014纂圖互註禮記-卷第十四.
 <pb:KR1d0054_SBCK_014-1a>¶
 纂圗互註禮記卷之十四¶
 &KR0021;法第二十三(陸曰鄭云以其記有虞氏至周/天子以下所&KR0021;祀群神之数也)¶
@@ -574,4 +578,3 @@
 孫纂之至于今不廢所以明周公之德而又以重其國¶
 也(不廢不廢其此礼/樂也重猶尊也)¶
 纂圖互註禮記卷第十四¶
-

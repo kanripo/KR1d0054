@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 纂圖互註禮記
-#+DATE: 2015-09-23 09:38:07
+#+DATE: 2015-09-10 22:50:15.589371
+#+PROPERTY: ID KR1d0054
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 19
+#+PROPERTY: FILE SB01n0026-019纂圖互註禮記-卷第十九.
 <pb:KR1d0054_SBCK_019-1a>¶
 纂圖互註禮記卷第十九¶
 投壷第四十(陸曰鄭云投壷者主人与客燕飲講論才兿之礼/也别錄屬吉禮亦實曲禮之正篇也皇云與射爲)¶
@@ -306,4 +310,3 @@
 <pb:KR1d0054_SBCK_019-13b>¶
 義爲利也¶
 纂圗互註禮記卷之十九¶
-

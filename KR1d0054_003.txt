@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 纂圖互註禮記
-#+DATE: 2015-09-23 09:38:07
+#+DATE: 2015-09-10 22:50:14.849487
+#+PROPERTY: ID KR1d0054
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 3
+#+PROPERTY: FILE SB01n0026-003纂圖互註禮記-卷第三.
 <pb:KR1d0054_SBCK_003-1a>¶
 纂圗互註禮記卷之三¶
 檀弓下第四¶
@@ -453,4 +457,3 @@
 夫(善夫善魯人也祔葬/當合也〇善夫音扶)¶
 纂圗互註禮記卷之三¶
 <pb:KR1d0054_SBCK_003-19b>¶
-

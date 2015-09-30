@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 纂圖互註禮記
-#+DATE: 2015-09-23 09:38:07
+#+DATE: 2015-09-10 22:50:15.322760
+#+PROPERTY: ID KR1d0054
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 13
+#+PROPERTY: FILE SB01n0026-013纂圖互註禮記-卷第十三.
 <pb:KR1d0054_SBCK_013-1a>¶
 纂圗互註禮記之十三¶
 䘮大記第二十二(○陸曰鄭云以其記人君以下始死小/歛大歛殯葬之大事故以大記爲名)¶
@@ -325,4 +329,3 @@
 <pb:KR1d0054_SBCK_013-13b>¶
 ¶
 纂圗互註禮記卷之十三¶
-

@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 纂圖互註禮記
-#+DATE: 2015-09-23 09:38:07
+#+DATE: 2015-09-10 22:50:15.079375
+#+PROPERTY: ID KR1d0054
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 8
+#+PROPERTY: FILE SB01n0026-008纂圖互註禮記-卷第八.
 <pb:KR1d0054_SBCK_008-1a>¶
 纂圖互註禮記卷之八¶
 郊特牲第十一(○陸曰鄭云以其記&KR0021;天用騂犢之義/也郊者&KR0021;夫之名用/牛故曰特牲)¶
@@ -646,4 +650,3 @@
 (彼有禮走而往焉以得接見於君子也奔或爲/衒○見賢遍反衒古縣字本又作御字魚據反)凡女拜尚右¶
 手(右隂/也)¶
 纂圖互註禮記卷之八¶
-

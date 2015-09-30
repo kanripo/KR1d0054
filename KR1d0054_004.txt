@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 纂圖互註禮記
-#+DATE: 2015-09-23 09:38:07
+#+DATE: 2015-09-10 22:50:14.892042
+#+PROPERTY: ID KR1d0054
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 4
+#+PROPERTY: FILE SB01n0026-004纂圖互註禮記-卷第四.
 <pb:KR1d0054_SBCK_004-1a>¶
 纂圖互註禮記卷之四¶
 王制第五(○陸曰如字徐于况反盧云/漢文帝令愽士諸生作此篇)¶
@@ -408,4 +412,3 @@
 之邑於天子之縣内視元士(給齊戒自㓗清之用浴用湯沐/用潘○間田音閑下同禄食音)¶
 <pb:KR1d0054_SBCK_004-17b>¶
 <pb:KR1d0054_SBCK_004-17b>¶
-

@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 纂圖互註禮記
-#+DATE: 2015-09-23 09:38:07
+#+DATE: 2015-09-10 22:50:15.630102
+#+PROPERTY: ID KR1d0054
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 20
+#+PROPERTY: FILE SB01n0026-020纂圖互註禮記-卷第二十.
 <pb:KR1d0054_SBCK_020-1a>¶
 纂圗互註禮記卷第二十¶
 &KR0227;義第四十三(陸曰&KR0227;音古乱反鄭云名&KR0227;/義者以其記&KR0227;礼成人之義)¶
@@ -434,4 +438,3 @@
 <pb:KR1d0054_SBCK_020-17b>¶
 (音基比必利反知音智本或/作智弟弟上音悌下如字)¶
 纂圗互註禮記卷第二十¶
-

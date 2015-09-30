@@ -1,7 +1,12 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 纂圖互註禮記
-#+DATE: 2015-09-23 09:38:07
+#+DATE: 2015-09-10 22:50:14.680850
+#+PROPERTY: ID KR1d0054
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 0
+#+PROPERTY: FILE SB01n0026-000纂圖互註禮記-卷首圖.
 <pb:KR1d0054_SBCK_000-1a>¶
+#+PROPERTY: JUAN 0
+#+PROPERTY: FILE SB01n0026-000纂圖互註禮記-補.
 <pb:KR1d0054_SBCK_000-2a>¶
-
